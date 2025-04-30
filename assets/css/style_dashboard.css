@@ -1,0 +1,59 @@
+:root{
+  --bean: #301504;
+  --rawumber: #885D3B;
+  --lion: #BF956F;
+  --almond: #EEE2D5;
+  --primaryblue: #22303f;
+  --secondaryblue: #020D2F;
+}
+
+
+body {
+  background-color: #EEE2D5;
+}
+
+h2{
+  color: var(--secondaryblue);
+  font-style: italic;
+}
+
+strong{
+  color: var(--bean);
+}
+
+.btn-create{
+  background-color: #283618;
+  color: var(--almond);
+  transition: all 0.4s ease-in-out;
+}
+
+.btn-create:hover {
+  background-color: #606c38;
+  color: var(--almond);
+  transition: all 0.4s ease-in-out;
+}
+
+
+.btn-edit{
+  background-color: #eeba0b;
+  color: var(--bean);
+  transition: all 0.4s ease-in-out;
+}
+
+.btn-edit:hover {
+  background-color: #f4e409;
+  color: var(--bean);
+  transition: all 0.4s ease-in-out;
+}
+
+.btn-delete{
+  background-color: #630508;
+  color: var(--almond);
+  transition: all 0.4s ease-in-out;
+}
+
+.btn-delete:hover {
+  background-color: #991218;
+  color: var(--almond);
+  transition: all 0.4s ease-in-out;
+}

@@ -1,0 +1,40 @@
+ :root{
+  --bean: #301504;
+  --rawumber: #885D3B;
+  --lion: #BF956F;
+  --almond: #EEE2D5;
+  --primaryblue: #22303f;
+  --secondaryblue: #020D2F;
+}
+
+
+body {
+  background-image: linear-gradient(#eee2d57c 13%, #885c3b4e 50%,  #301504b7 90%), url(https://cdn.pixabay.com/photo/2020/10/11/15/13/flowers-5646179_1280.png);
+}
+
+.card {
+  background-color: var(--lion);
+  color: var(--bean);
+}
+
+.card .btn {
+  background-color: var(--secondaryblue);
+  color: var(--almond);
+  transition: all 0.4s ease-in-out;
+}
+
+.card .btn:hover {
+  background-color: var(--primaryblue);
+  color: var(--almond);
+  transition: all 0.4s ease-in-out;
+}
+
+.card a{
+  color: var(--bean);
+  transition: all 0.4s ease-in-out;
+}
+
+.card a:hover{
+  color: var(--primaryblue);
+  transition: all 0.4s ease-in-out;
+}
