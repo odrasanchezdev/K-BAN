@@ -2,7 +2,9 @@
 
 ## Descripción
 > El tema central del proyecto, es la aplicación del desarrollo Backend. Con un "ToDo" personalizado para cada usuario. Implementa una arquitectura MVC, con persistencia de datos en MySQL.
+> 
 > La aplicación ofrece en un INDEX como punto de entrada, un sistema de inicio de sesión con validación frontend de correo y contraseña, y una funcionalidad de registro de usuarios que exige una contraseña de al menos 8 caracteres y su confirmación. La opción de "Recuperar contraseña" permite actualizar la clave en la base de datos, solicitando también un mínimo de 8 caracteres.
+>
 > Dentro de la aplicación, cada usuario autenticado puede crear, editar y eliminar sus propias tareas. Finalmente, se incluye una función de cierre de sesión para garantizar la seguridad.
 <br>
 
