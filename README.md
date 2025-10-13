@@ -10,7 +10,7 @@
 
 ## Estado del repositorio 📊️
 <div align="center" style="display: inline_block">
-<img src="https://img.shields.io/badge/Coverage-100%25-7389A6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Avance-100%25-7389A6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Version-1.0-7389A6?style=for-the-badge" />
 </div>
 <br>
