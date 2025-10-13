@@ -26,7 +26,7 @@
 <br>
 
 ### Notas importantes ⚠
-  - Este proyecto está redactado en inglés con comentarios y descripciones en español.
+  - Este proyecto está redactado en inglés con comentarios y descripciones en español (*The programs include comments, observations, and explanatory formulas written primarily in Spanish to help clarify the code and its purpose*).
 <br>
 
 ## Instalación y configuración 🚀
