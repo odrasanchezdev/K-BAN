@@ -1,4 +1,4 @@
-# K-BAN || ToDo para el día de hoy
+# K-BAN: Gestor de tareas multiusuario
 
 ## Descripción
 > El tema central del proyecto, es la aplicación del desarrollo Backend. Con un "ToDo" personalizado para cada usuario. Implementa una arquitectura MVC, con persistencia de datos en MySQL.
@@ -6,27 +6,35 @@
 > La aplicación ofrece en un INDEX como punto de entrada, un sistema de inicio de sesión con validación frontend de correo y contraseña, y una funcionalidad de registro de usuarios que exige una contraseña de al menos 8 caracteres y su confirmación. La opción de "Recuperar contraseña" permite actualizar la clave en la base de datos, solicitando también un mínimo de 8 caracteres.
 >
 > Dentro de la aplicación, cada usuario autenticado puede crear, editar y eliminar sus propias tareas. Finalmente, se incluye una función de cierre de sesión para garantizar la seguridad.
+
+<br>
 <br>
 
 ## Estado del repositorio 📊️
 <div align="center" style="display: inline_block">
-<img src="https://img.shields.io/badge/Avance-100%25-7389A6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Version-1.0-7389A6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Estado-Completado%20/%20Estable-071739?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pruebas-Unitarias-071739?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mantenimiento-Limitado%20a%20soporte-E3C39D?style=for-the-badge" />
 </div>
+<br>
 <br>
 
 ## Tecnologías utilizadas 🔨
 <div align="center" style="display: inline_block">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge" />
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge" />
 <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge" />
+<img alt="PHPMyAdmin" src="https://img.shields.io/badge/PHPMyAdmin-faae4b?style=for-the-badge" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?&style=for-the-badge" />
 <img alt="VSCODE" src="https://img.shields.io/badge/VSCode-02458D?style=for-the-badge" />
 </div>
 <br>
 
 ### Notas importantes ⚠
-  - Este proyecto está redactado en inglés con comentarios y descripciones en español (*The programs include comments, observations, and explanatory formulas written primarily in Spanish to help clarify the code and its purpose*).
+  - Los documentos cuentan con comentarios, observaciones y fórmulas en español (*The programs include comments, observations, and explanatory formulas written primarily in Spanish to help clarify the code and its purpose*).
+<br>
 <br>
 
 ## Instalación y configuración 🚀
@@ -58,6 +66,8 @@ $db   = "kanban";
 2. Regístrate o inicia sesión para usar la aplicación.
 3. Agrega, edita o elimina tus tareas en la lista.
 
+<br>
+<br>
 
 ### Capturas de pantalla 📷
 <table>
@@ -75,14 +85,16 @@ $db   = "kanban";
   </tr>
 </table>
 <br>
+<br>
 
-## Soporte
+## Soporte ⚙
 Si tienes alguna pregunta, encuentras un error en alguno de los documentos o deseas sugerir una mejora, ¡no dudes en abrir un issue en este repositorio! Me encantaría recibir tus comentarios.
 
 * ¿Encontraste un error? Abre un issue y describe el problema.
 * ¿Tienes una sugerencia? Abre un issue y comparte tu idea.
 
 Acercate a mis redes sociales para atender tus dudas y sugerencias en la sección de [Contacto](#contacto-)
+<br>
 <br>
 
 ## Licencia ✅
